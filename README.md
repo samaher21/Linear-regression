@@ -10,7 +10,7 @@ This project analyzing Villas for Sale in West Riyadh from ['Aqar'](https://sa.a
 ## Data Description
 
 The data in this project is the prices of houses for sale in West Riyadh from 'Aqar' website which is a famous real estate website in Saudi Arabia. 
-it consists of (13,293) rows and (9) columns as the following:
+it consists of (17,963) rows and (9) columns as the following:
 [Area, Direction, Price, Path, living, House age, views, Street width, beds] and 8 of them are numerical.
 
 
